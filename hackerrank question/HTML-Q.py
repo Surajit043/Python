@@ -1,5 +1,3 @@
-# THIS CODE FOR PYTHON 2.0 VERSION
-
 from HTMLParser import HTMLParser
 
 class MyHTMLParser(HTMLParser):
